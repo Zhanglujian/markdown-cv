@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lance's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Lance Zhang
+MTI student at Southwest University
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,33 +13,24 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Intern at New Oriental Education
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+English Teaching, English Translation and Interpreting, Sales and Marketing
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Philosophy of Language, Linguistics, Literature
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2021`
+__Guangxi University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2023-now`
+__Southwest University__
 
 
 ## Awards
